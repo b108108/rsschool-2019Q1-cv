@@ -1,1 +1,1 @@
-https://your-github-account.github.io/rsschool-2019Q1-cv/cv
+https://github.com/b108108/rsschool-2019Q1-cv/tree/gh-pages/cv
